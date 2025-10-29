@@ -1,4 +1,3 @@
-# CONTRACT ADDRESS - https://celo-sepolia.blockscout.com/tx/0xd3dd6521a0ee5e0f8cff9fd848a7eae981a2c1bd0539a7f192f56922451701b3
 # contract-halloapp.sol
 Blockchain-based savings account with transaction history.
 # 👋 HalloApp - Blockchain-Based Savings Account with Transaction History
@@ -10,7 +9,7 @@ Think of it as your **decentralized savings account**, where you’re your own b
 <img width="1920" height="1080" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/52f5a175-cb25-414b-a432-eba8894602e2" />
 
 
-
+# CONTRACT ADDRESS - https://celo-sepolia.blockscout.com/tx/0xd3dd6521a0ee5e0f8cff9fd848a7eae981a2c1bd0539a7f192f56922451701b3
 ---
 
 ## 🧩 Features
