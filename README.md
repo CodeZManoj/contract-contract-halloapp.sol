@@ -1,3 +1,4 @@
+# CONTRACT ADDRESS - https://celo-sepolia.blockscout.com/tx/0xd3dd6521a0ee5e0f8cff9fd848a7eae981a2c1bd0539a7f192f56922451701b3
 # contract-contract-halloapp.sol
 Blockchain-based savings account with transaction history.
 # 👋 HalloApp - Blockchain-Based Savings Account with Transaction History
