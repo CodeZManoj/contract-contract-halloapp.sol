@@ -95,3 +95,5 @@ contract HalloApp {
         return transactionHistory[msg.sender];
     }
 }
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bf5fea68-4795-44a4-b97b-cb6a6edb87cf" />
