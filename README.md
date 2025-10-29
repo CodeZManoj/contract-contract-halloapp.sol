@@ -6,6 +6,10 @@ Blockchain-based savings account with transaction history.
 
 Think of it as your **decentralized savings account**, where you’re your own bank.
 
+<img width="1920" height="1080" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/52f5a175-cb25-414b-a432-eba8894602e2" />
+
+
+
 ---
 
 ## 🧩 Features
